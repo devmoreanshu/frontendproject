@@ -1,0 +1,69 @@
+h1 {
+  color: rgb(28, 161, 82);
+  text-align: center;
+}
+.addentry {
+}
+.submitentry {
+}
+body {
+  background-color: rgb(3, 3, 3);
+  color: white;
+}
+
+.form-1 {
+  border: 2px solid rgb(28, 161, 82);
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+  margin: auto;
+}
+
+.form-1 > div {
+  text-align: center;
+  margin: 5px;
+}
+
+#no {
+  margin-left: 41px;
+}
+
+#status {
+  margin-left: 13px;
+}
+
+#bounty {
+  margin-left: 3px;
+}
+
+#lastseen {
+  margin-left: -6px;
+}
+
+#update {
+  margin-left: 12px;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.block-1 {
+  margin-right: 390px;
+}
+
+.block-2 {
+  margin-left: 40px;
+}
+
+.block-1 input {
+  background-color: rgb(28, 161, 82);
+  color: white;
+}
+
+.block-2 input {
+  background-color: rgb(28, 161, 82);
+  color: white;
+}
